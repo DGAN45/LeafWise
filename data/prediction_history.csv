@@ -1,0 +1,4 @@
+timestamp,plant_name,disease_name,predicted_class,confidence
+2026-11-22 05:00:30.737236+00:00,Tomato,Septoria leaf spot,Tomato___Septoria_leaf_spot,0.9898309111595154
+,Tomato,Septoria leaf spot,Tomato___Septoria_leaf_spot,0.9898309111595154
+2026-11-22T05:27:23.689992+00:00,Apple,Healthy leaf,Apple___healthy,0.9994590878486633
